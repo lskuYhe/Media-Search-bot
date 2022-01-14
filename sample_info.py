@@ -23,10 +23,12 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+<b>Hi There 👋 I'm Media Search Bot of <u>Prabashwara</u>😵‍💫🍃</b>
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Here you can search files in inline mode. Just press following buttons and start searching.
+
+Hit /help to get command list 🧳
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = '**Checkout {username} for searching files**'
 INVITE_MSG = 'Please join @.... to use this bot'
